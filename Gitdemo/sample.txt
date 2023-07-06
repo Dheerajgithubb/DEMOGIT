@@ -1,11 +1,2 @@
-
-A
-B
-B
-i
-C
-C
-C
-C
-C
-this is sample pro
+this is a sample project by demo 
+work
